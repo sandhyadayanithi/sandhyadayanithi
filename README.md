@@ -11,7 +11,26 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=sandhyadayanithi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandhyadayanithi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandhyadayanithi&theme=github_dark"/>
+</p>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sandhyadayanithi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Certified Achievements
+
+  <a href="https://badgr.com/public/assertions/1HWQ_3IBQEeaC2wmhsYl5w?identity__email=tubak2907@gmail.com" target="_blank">
+    <img src="https://badgr.com/public/badges/G0U1YVeOSdGAiytb9Yw6_w/image" alt="Postman API Badge" height="300">
+  </a>
+</div>
+
+## Snake Animation
+
+![Snake Animation](https://github.com/tubakhxn/tubakhxn/blob/output/github-contribution-grid-snake.svg)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
