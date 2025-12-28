@@ -1,6 +1,6 @@
 # Sneak Peak of my Life:
 
-🔭 Currently building full-stack web projects while grinding DSA and leveling up my problem-solving skills.<br><br> Always down to collaborate on cool web apps, creative frontend ideas, and open-source projects.<br><br> Actively learning how to design scalable backends and write cleaner, more efficient logic.<br><br>
+🔭 Currently building full-stack web projects while grinding DSA and leveling up my problem-solving skills.<br><br>⚙️ Always down to collaborate on cool web apps, creative frontend ideas, and open-source projects.<br><br>🚀 Actively learning how to design scalable backends and write cleaner, more efficient logic.<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sandhyaaahh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sandhyadayanthi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sandhyadayanithi@gmail.com) 
