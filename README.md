@@ -19,13 +19,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sandhyadayanithi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## Certified Achievements
-
-  <a href="https://badgr.com/public/assertions/1HWQ_3IBQEeaC2wmhsYl5w?identity__email=tubak2907@gmail.com" target="_blank">
-    <img src="https://badgr.com/public/badges/G0U1YVeOSdGAiytb9Yw6_w/image" alt="Postman API Badge" height="300">
-  </a>
-</div>
-
 ## Snake Animation
 
 ![Snake Animation](https://github.com/tubakhxn/tubakhxn/blob/output/github-contribution-grid-snake.svg)
