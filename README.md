@@ -48,10 +48,4 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandhyadayanithi&theme=github_dark"/>
 </p>
 
-## Snake Animation
-
 ![Cyberpunk Snake](https://github.com/sandhyadayanithi/sandhyadayanithi/blob/output/github-contribution-grid-snake-purple.svg)
-
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
