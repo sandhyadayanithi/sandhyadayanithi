@@ -40,12 +40,15 @@
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sandhyadayanithi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sandhyadayanithi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandhyadayanithi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandhyadayanithi&theme=github_dark"/>
+<p align="start">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sandhyadayanithi&theme=dark&hide_border=false" />
 </p>
 
-![Cyberpunk Snake](https://github.com/sandhyadayanithi/sandhyadayanithi/blob/output/github-contribution-grid-snake-purple.svg)
+<p align="start">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandhyadayanithi&theme=github_dark" />
+</p>
+
+<p align="start">
+  <img src="https://raw.githubusercontent.com/sandhyadayanithi/sandhyadayanithi/output/github-contribution-grid-snake-purple.svg" alt="Cyberpunk Snake" />
+</p>
