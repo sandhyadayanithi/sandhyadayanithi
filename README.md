@@ -2,18 +2,22 @@
 
 # Sandhya Dayanithi
 
-### Full-Stack Developer • Product Builder • Problem Solver
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Product+Builder;AI+Enthusiast;Problem+Solver" />
 
 <p>
-  If I don't know how to build it yet, I'll learn.
+If I don't know how to build it yet, I'll learn.
 </p>
 
-<a href="https://linkedin.com/in/sandhyadayanthi">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="mailto:sandhyadayanithi@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Reach_Out-red?style=for-the-badge&logo=gmail" />
-</a>
+</div>
+<p align="center">
+  <a href="https://linkedin.com/in/sandhyadayanthi">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  
+  <a href="mailto:sandhyadayanithi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach_Out-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 </div>
 
